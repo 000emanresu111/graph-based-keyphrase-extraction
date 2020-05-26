@@ -1,9 +1,11 @@
 # graph-based-keyphrase-extraction
 
-## Launch Jupyter Notebook
+Implementation of some graph-based keyphrases extraction algorithms.
+
+### Launch Jupyter Notebook
 [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/000emanresu111/graph-based-keyphrase-extraction/master?filepath=graph-based-sequences-extraction.ipynb)
 
-## References
+### References
 ```
 https://github.com/boudinfl/pke
 https://www.aclweb.org/anthology/C16-2015/
